@@ -15,6 +15,12 @@ public class ArrayList_Programs {
 			list.add(5);
 			list.add(6);
 			
+			list.add(5,8);
+			list.add("Gauttam");
+//			list.clear();
+			list.remove(0);
+			
+			
 			System.out.println(list);
 
 	}
