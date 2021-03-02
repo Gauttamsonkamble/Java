@@ -1,6 +1,7 @@
 package com.Gauttam;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 public class ArrayList_Programs {
 
@@ -21,7 +22,16 @@ public class ArrayList_Programs {
 			list.remove(0);
 			
 			
-			System.out.println(list);
+//			System.out.println(list);
+			
+			
+			Iterator itr = list.iterator();
+			
+			while(itr.hasNext())
+			{
+				System.out.println(itr.next());
+			}
+			
 
 	}
 
