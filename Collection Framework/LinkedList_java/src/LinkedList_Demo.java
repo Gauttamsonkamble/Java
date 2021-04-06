@@ -4,7 +4,8 @@ public class LinkedList_Demo {
 
 	public static void main(String[] args) {
 		
-		LinkedList list = new LinkedList();
+		LinkedList<Integer> list = new LinkedList();
+		
 		
 		list.add(10);
 		list.add(20);
@@ -12,7 +13,17 @@ public class LinkedList_Demo {
 		list.add(40);
 		list.add(50);
 		
-		System.out.println(list);
+		
+		Iterator itr =list.iterator();
+		
+		while(itr.hasNext())
+		{
+			System.out.println(itr.next());
+		}
+		
+		
+//		System.out.println(list);
+		
 	}
 
 }
