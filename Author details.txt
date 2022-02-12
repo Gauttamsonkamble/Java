@@ -1,2 +1,2 @@
-Name : Gauttam Sonkamble
-Channel Name : DeveloperCorners
+Author Name : Gauttam Sonkamble
+Channel Name: DeveloperCorners
