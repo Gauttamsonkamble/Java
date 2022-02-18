@@ -1,11 +1,7 @@
 Author Name : Gauttam Sonkamble
 Channel Name: DeveloperCorners
 Profession : Software Developer
-<<<<<<< .mine
-Profession : Software Developer
-=======
-Technology : Java , Python ,Git
->>>>>>> .theirs
+Profession : Software Developer, Instructor
 Technology : Java , Python ,Git
 Education : MCA
 Branch Name : Develop
