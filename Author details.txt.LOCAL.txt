@@ -1,7 +1,0 @@
-Author Name : Gauttam Sonkamble
-Channel Name: DeveloperCorners
-Profession : Software Developer
-Profession : Software Developer, Instructor
-Technology : Java , Python ,Git
-Education : MCA
-Branch Name : Develop
